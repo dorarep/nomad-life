@@ -1,5 +1,16 @@
 [
   {
+    "title": "私がインフルエンサーが苦手な理由",
+    "description": "自分がなぜインフルエンサーが苦手なのかまとめてみます。",
+    "created": 1544572800000,
+    "tags": [
+      "インフルエンサー",
+      "感想"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2019/01/ce5f4de823af2dce1ba5f6ff1bea3a3e.png",
+    "slug": "influencer"
+  },
+  {
     "title": "『自分探しの旅』って？自分を見つける旅の作り方",
     "description": "『自分探しの旅』における自分とは何か、自分を見つけるにはどんな旅をすれば良いのか、私の考えをまとめていきます。",
     "created": 1543363200000,
@@ -10,6 +21,18 @@
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/11/deb56afc31a0efc1efb1910a3c6ae9de.png",
     "slug": "find-yourself"
+  },
+  {
+    "title": "【豊川浴泉】神田川の銭湯で懐かしい気持ちを味わってきた【料金・タオル】",
+    "description": "高田馬場での用事を待っている間、神田川沿いを散歩してたらなかなか趣のある銭湯「豊川浴泉」を発見。早速入ってみました。",
+    "created": 1533654000000,
+    "tags": [
+      "豊川浴泉",
+      "銭湯",
+      "高田馬場"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/ae40b578fb58cb4a910a0e4590ebee1d.jpg",
+    "slug": "toyokawa-spa"
   },
   {
     "title": "ドムンアン空港からバンコク市内に向かう3つの方法ドムンアン空港からバンコク市内に向かう3つの方法",
