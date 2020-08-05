@@ -9,6 +9,7 @@ declare namespace JSX {
 declare namespace JSX {
   interface IntrinsicElements {
     'amp-img': any;
+    'amp-iframe': any;
   }
 }
 
@@ -20,6 +21,13 @@ declare namespace JSX {
     width?: string;
     height?: string;
     layout?: string;
+  }
+  interface AmpIframe {
+    src?: string;
+    width?: string;
+    height?: string;
+    layout?: string;
+    sandbox?: string;
   }
   interface IntrinsicElements {
     'amp-img': AmpImg;
