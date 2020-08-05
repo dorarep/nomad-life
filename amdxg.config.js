@@ -5,7 +5,7 @@ module.exports = {
   author: "dorarep",
   authorLink: "https://twitter.com/dorarep",
   lang: "ja",
-  gtag: "UA-110092791-4",
+  gtag: "UA-110092791-5",
   repository: "dorarep/nomad-life",
   socialShare: {
     twitter: true,
