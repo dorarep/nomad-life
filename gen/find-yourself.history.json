@@ -1,0 +1,14 @@
+[
+  {
+    "date": "Mon Aug 3 09:31:30 2020 +0900",
+    "hash": "56c2368",
+    "author": "dorarep",
+    "message": "feat: change to doralog"
+  },
+  {
+    "date": "Mon Aug 3 08:29:53 2020 +0900",
+    "hash": "8ac7cac",
+    "author": "dorarep",
+    "message": "Initial commit"
+  }
+]
