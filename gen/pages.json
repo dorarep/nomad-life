@@ -76,6 +76,14 @@
     "slug": "don-mueang-to-bangkok"
   },
   {
+    "title": "村おこしの方法を考えてみた",
+    "description": "村おこしについて2つの視点から自分の考えをまとめてみます。",
+    "created": 1530975600000,
+    "tags": [],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/bc7bd2084ca75b69d6a4250d625f6eea.jpg",
+    "slug": "village"
+  },
+  {
     "title": "バンコクでの２週間ノマド生活！ – ベトナム編",
     "description": "バンコク2週間ノマド生活で、旧友に会うためベトナムにやってきました。",
     "created": 1530889200001,
@@ -100,6 +108,17 @@
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2019/06/DreamPlex.png",
     "slug": "dreamplex"
+  },
+  {
+    "title": "自動運転で漫画喫茶が潰れる？その影響を徹底考察！",
+    "description": "自動運転技術、特に自動運転タクシーの出現によって世界がどう変わるかを「風が吹けば桶屋が儲かる」レベルのものから考えてみます。",
+    "created": 1530889200000,
+    "tags": [
+      "自動運転車",
+      "AI"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/9db5e8fe6ab954c3887c46c5eb7cd4ec.jpg",
+    "slug": "self-driving-car"
   },
   {
     "title": "【バンコク】スラサックのコワーキングスペースWolf",
@@ -139,6 +158,18 @@
     ],
     "thumbnail": "/thumbnails/20180704.png",
     "slug": "20180704"
+  },
+  {
+    "title": "グループアイドルの終焉？SMAP解散騒動から見るメディア・芸能界の性質と今後",
+    "description": "『SMAPはなぜ解散したのか』から、騒動の中で見えてくるメディアや芸能界の特性、そしてそこから見える芸能界の今後について考えていきます。",
+    "created": 1530630000000,
+    "tags": [
+      "読書感想",
+      "メディア",
+      "アイドル"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/df0a4b0badde83d96ca2f46f0353a175.jpg",
+    "slug": "smap"
   },
   {
     "title": "フリーランスエンジニアがノマドを選ぶ理由",
