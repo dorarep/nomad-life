@@ -63,6 +63,19 @@
     "slug": "toyokawa-spa"
   },
   {
+    "title": "【タイ物価】バンコクの食費事情、ローカル店から自炊まで！",
+    "description": "観光に便利な立地で値段もお特なバンコクのホテルJustbedsを紹介します。",
+    "created": 1531407600000,
+    "tags": [
+      "タイ",
+      "バンコク",
+      "海外",
+      "食費"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/97dc577f497ebd69b10c2e44915d1b6b.jpg",
+    "slug": "thai-food-price"
+  },
+  {
     "title": "【ひとり旅にオススメ】バンコク格安ホテル Justbeds！",
     "description": "観光に便利な立地で値段もお特なバンコクのホテルJustbedsを紹介します。",
     "created": 1531234800000,
@@ -77,7 +90,7 @@
   },
   {
     "title": "バンコク最強のコワーキングスペースTCDC【Thailand Creative & Design Center】",
-    "description": "村おこしについて2つの視点から自分の考えをまとめてみます。",
+    "description": "バンコク最強のコワーキングスペースTCDCをご紹介します。",
     "created": 1531234800000,
     "tags": [
       "タイ",
