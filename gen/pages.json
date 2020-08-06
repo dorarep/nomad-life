@@ -63,6 +63,32 @@
     "slug": "toyokawa-spa"
   },
   {
+    "title": "【ひとり旅にオススメ】バンコク格安ホテル Justbeds！",
+    "description": "観光に便利な立地で値段もお特なバンコクのホテルJustbedsを紹介します。",
+    "created": 1531234800000,
+    "tags": [
+      "タイ",
+      "バンコク",
+      "海外",
+      "ホテル"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/09/bankok-justbeds-hotel.jpg",
+    "slug": "justbeds"
+  },
+  {
+    "title": "バンコク最強のコワーキングスペースTCDC【Thailand Creative & Design Center】",
+    "description": "村おこしについて2つの視点から自分の考えをまとめてみます。",
+    "created": 1531234800000,
+    "tags": [
+      "タイ",
+      "バンコク",
+      "海外",
+      "コワーキングスペース"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/09/TCDC.jpg",
+    "slug": "tcdc"
+  },
+  {
     "title": "ドムンアン空港からバンコク市内に向かう3つの方法ドムンアン空港からバンコク市内に向かう3つの方法",
     "description": "ドムンアン空港からバンコク市内に向かう方法と、その行き方を紹介します。",
     "created": 1530975600000,
