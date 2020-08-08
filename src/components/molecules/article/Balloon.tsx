@@ -1,7 +1,7 @@
 import {FC} from "react";
 
 type Props = {
-  img: 'man1' | 'man2' | 'woman1';
+  img: string;
   direction: 'left' | 'right';
 }
 
