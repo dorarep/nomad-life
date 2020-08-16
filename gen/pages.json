@@ -128,6 +128,7 @@
     "created": 1535036400000,
     "tags": [
       "台湾",
+      "台南",
       "高尾",
       "蓮池譚",
       "歴史"
@@ -146,6 +147,16 @@
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/ae40b578fb58cb4a910a0e4590ebee1d.jpg",
     "slug": "toyokawa-spa"
+  },
+  {
+    "title": "【好きなことで生きていく】嫌いなことで生きていけるほど人生甘くないというお話",
+    "description": "これからは、「嫌いなことをして生きていけるほど甘くない」時代がきます。その理由について説明します。",
+    "created": 1533394800000,
+    "tags": [
+      "人生"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/2171f423f14d2059032c05ed7fd9fc91.jpg",
+    "slug": "favorite-things"
   },
   {
     "title": "【タイ物価】バンコクの食費事情、ローカル店から自炊まで！",
