@@ -30,6 +30,8 @@
     "tags": [
       "人生",
       "サンティアゴ巡礼",
+      "スペイン",
+      "海外",
       "旅"
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/11/deb56afc31a0efc1efb1910a3c6ae9de.png",
@@ -52,7 +54,8 @@
     "description": "モロッコの両替所でGLOBAL CARDを作るという失敗についてまとめていきます。",
     "created": 1538233200000,
     "tags": [
-      "モロッコ"
+      "モロッコ",
+      "海外"
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/09/ab90e534cee0c357092b5a58de9648d7.jpg",
     "slug": "global-card"
@@ -64,6 +67,7 @@
     "tags": [
       "モロッコ",
       "シャウエン",
+      "海外",
       "観光地",
       "モスク"
     ],
@@ -77,6 +81,7 @@
     "tags": [
       "モロッコ",
       "シャウエン",
+      "海外",
       "観光地",
       "特産品"
     ],
@@ -90,8 +95,8 @@
     "tags": [
       "台湾",
       "台南",
-      "烏山頭ダム",
       "海外",
+      "観光地",
       "八田與一",
       "歴史"
     ],
@@ -130,7 +135,8 @@
       "台湾",
       "台南",
       "高尾",
-      "蓮池譚",
+      "観光地",
+      "海外",
       "歴史"
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/777ed0fc1a09b27fc8550df4cf77533f.jpg",
@@ -157,6 +163,17 @@
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/2171f423f14d2059032c05ed7fd9fc91.jpg",
     "slug": "favorite-things"
+  },
+  {
+    "title": "最強カプセルホテル ファーストキャビン 阪神西梅田店に泊まってみた",
+    "description": "ドムンアン空港からバンコク市内に向かう方法と、その行き方を紹介します。",
+    "created": 1533049200000,
+    "tags": [
+      "ホテル",
+      "大阪"
+    ],
+    "thumbnail": "https://storage.googleapis.com/stacky-health/2018/08/first-cabin.jpg",
+    "slug": "first-cabin"
   },
   {
     "title": "【タイ物価】バンコクの食費事情、ローカル店から自炊まで！",
@@ -276,7 +293,8 @@
       "日記",
       "タイ",
       "バンコク",
-      "海外"
+      "海外",
+      "コワーキングスペース"
     ],
     "thumbnail": "https://storage.googleapis.com/stacky-health/2018/09/47828b9a2b17fa6dd08af41d167f2f3d.jpg",
     "slug": "20180705"
